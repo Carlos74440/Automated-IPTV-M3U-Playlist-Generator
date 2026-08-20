@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-08-19 20:59:33
+Generated: 2026-08-20 21:02:05
 ============================================================
 
 PROCESSING STATISTICS
@@ -9,12 +9,12 @@ Total Lines Processed: 3077
 Total Channels Found: 1225
 Parsing Errors: 0
 Urls Validated: 976
-Active Urls: 800
+Active Urls: 799
 Geo Blocked Urls: 153
-Validation Time: 124.69663643836975
-Inactive By Error: {'http_404': 98, 'inactive': 36, 'invalid_content': 18, 'http_502': 1, 'http_503': 8, 'http_400': 7, 'http_504': 5, 'http_500': 1, 'http_421': 2}
-Total Processing Time: 131.10957980155945
-Final Channel Count: 800
+Validation Time: 123.02634882926941
+Inactive By Error: {'http_404': 99, 'inactive': 36, 'invalid_content': 18, 'http_502': 1, 'http_503': 8, 'http_400': 7, 'http_504': 5, 'http_500': 1, 'http_421': 2}
+Total Processing Time: 130.54483890533447
+Final Channel Count: 799
 Source Urls Processed: 8
 Total Skipped Urls: 111
 
@@ -24,7 +24,7 @@ Uncategorized: 112 channels
 Music: 55 channels
 Cinéma: 49 channels
 Sports: 43 channels
-General: 41 channels
+General: 40 channels
 Généraliste: 33 channels
 Divertissement: 28 channels
 Series: 22 channels
@@ -78,14 +78,14 @@ Legislative: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Nouveau sur Pluto TV: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
-Comedie: 1 channels
 Réréalité: 1 channels
 Film: 1 channels
+Comedie: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
@@ -98,10 +98,10 @@ Animation;Kids: 1 channels
 Comedy;Movies: 1 channels
 Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
-Relax: 1 channels
-Comedy;Series: 1 channels
-Shop: 1 channels
 Auto: 1 channels
+Relax: 1 channels
+Shop: 1 channels
+Comedy;Series: 1 channels
 Documentary;Series: 1 channels
 Weather: 1 channels
 Hit TV: 1 channels
@@ -112,7 +112,7 @@ International: 1 channels
 VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 7 channels
-HTTP 404 Errors: 98 channels
+HTTP 404 Errors: 99 channels
 HTTP 421 Errors: 2 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
