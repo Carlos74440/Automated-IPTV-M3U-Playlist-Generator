@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-10 19:54:19
+Generated: 2026-09-11 19:54:16
 ============================================================
 
 PROCESSING STATISTICS
@@ -11,9 +11,9 @@ Parsing Errors: 0
 Urls Validated: 954
 Active Urls: 764
 Geo Blocked Urls: 121
-Validation Time: 175.1973361968994
-Inactive By Error: {'http_404': 103, 'http_503': 10, 'inactive': 47, 'invalid_content': 17, 'http_502': 1, 'http_400': 6, 'http_504': 5, 'http_500': 1}
-Total Processing Time: 187.47030639648438
+Validation Time: 174.81707453727722
+Inactive By Error: {'http_404': 103, 'inactive': 47, 'invalid_content': 17, 'http_503': 10, 'http_502': 1, 'http_400': 6, 'http_504': 5, 'http_500': 1}
+Total Processing Time: 183.79834580421448
 Final Channel Count: 764
 Source Urls Processed: 8
 Total Skipped Urls: 107
@@ -77,10 +77,10 @@ History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
-Hit TV, True Crime: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
+Hit TV, True Crime: 2 channels
 Educatif: 1 channels
 Réréalité: 1 channels
 Comedie: 1 channels
@@ -95,16 +95,16 @@ Legislative: 1 channels
 Animation;Kids: 1 channels
 Auto: 1 channels
 Comedy;Movies: 1 channels
+Documentary;Series: 1 channels
 Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
-Documentary;Series: 1 channels
 Relax: 1 channels
-Weather: 1 channels
 Comedy;Series: 1 channels
 Shop: 1 channels
+Weather: 1 channels
 Hit TV: 1 channels
-Drama TV, Movies: 1 channels
 Hit TV, Game Shows: 1 channels
+Drama TV, Movies: 1 channels
 International: 1 channels
 
 VALIDATION FAILURE BREAKDOWN
