@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-09-21 22:54:11
+Generated: 2026-09-22 22:29:16
 ============================================================
 
 PROCESSING STATISTICS
@@ -9,12 +9,12 @@ Total Lines Processed: 2240
 Total Channels Found: 803
 Parsing Errors: 0
 Urls Validated: 742
-Active Urls: 590
+Active Urls: 592
 Geo Blocked Urls: 62
-Validation Time: 166.712810754776
-Inactive By Error: {'http_404': 66, 'inactive': 47, 'http_503': 10, 'http_502': 1, 'invalid_content': 16, 'http_400': 6, 'http_504': 5, 'http_500': 1}
-Total Processing Time: 259.9510359764099
-Final Channel Count: 590
+Validation Time: 160.52504086494446
+Inactive By Error: {'http_404': 66, 'http_503': 10, 'inactive': 44, 'invalid_content': 16, 'http_502': 1, 'http_400': 6, 'http_504': 6, 'http_500': 1}
+Total Processing Time: 242.73278427124023
+Final Channel Count: 592
 Source Urls Processed: 8
 Total Skipped Urls: 107
 
@@ -48,12 +48,12 @@ Crime: 8 channels
 Crime & Mystère: 8 channels
 Animation;Comedy: 7 channels
 Voyages et Gastronomie: 6 channels
+Movies;Series: 6 channels
 Classic: 6 channels
 TV Réalité: 6 channels
 Informations Françaises: 5 channels
 Movies: 5 channels
 Documentary: 5 channels
-Movies;Series: 5 channels
 Outdoor: 5 channels
 Sports & Auto: 5 channels
 Documentaire: 5 channels
@@ -71,13 +71,14 @@ Lifestyle: 2 channels
 Classic;Comedy: 2 channels
 Emissions cultes: 2 channels
 Educatif: 1 channels
-Réréalité: 1 channels
 Comedie: 1 channels
 Film: 1 channels
+Réréalité: 1 channels
 Affaires Publiques: 1 channels
+Cuisine: 1 channels
 Thématique: 1 channels
 Quebec TV: 1 channels
-Cuisine: 1 channels
+Sport: 1 channels
 Etrangère: 1 channels
 Education;Kids: 1 channels
 Legislative: 1 channels
@@ -87,15 +88,15 @@ Comedy;Movies: 1 channels
 Documentary;Series: 1 channels
 Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
-Comedy;Series: 1 channels
 Weather: 1 channels
 Relax: 1 channels
 Shop: 1 channels
+Comedy;Series: 1 channels
 
 FAILED URLS
 -----------
 URL: https://tinyurl.com/Stream2IPTV?region=fr&service=SamsungTVPlus
-Error: HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=12)
+Error: HTTPSConnectionPool(host='script.googleusercontent.com', port=443): Read timed out. (read timeout=12)
 
 URL: https://tinyurl.com/Stream2IPTV?region=fr&service=Plex
 Error: HTTPSConnectionPool(host='script.google.com', port=443): Read timed out. (read timeout=12)
@@ -107,8 +108,8 @@ HTTP 404 Errors: 66 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 10 channels
-HTTP 504 Errors: 5 channels
-Inactive: 47 channels
+HTTP 504 Errors: 6 channels
+Inactive: 44 channels
 Invalid Content: 16 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
