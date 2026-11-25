@@ -1,6 +1,6 @@
 M3U Collector Processing Report
 Country: Mikhoul
-Generated: 2026-11-24 04:29:55
+Generated: 2026-11-25 03:13:05
 ============================================================
 
 PROCESSING STATISTICS
@@ -9,12 +9,12 @@ Total Lines Processed: 3060
 Total Channels Found: 1200
 Parsing Errors: 0
 Urls Validated: 963
-Active Urls: 738
-Geo Blocked Urls: 115
-Validation Time: 171.5145890712738
-Inactive By Error: {'http_404': 124, 'http_400': 8, 'invalid_content': 16, 'inactive': 44, 'http_502': 1, 'http_503': 8, 'http_504': 4, 'http_500': 1, 'http_429': 19}
-Total Processing Time: 177.9041805267334
-Final Channel Count: 738
+Active Urls: 741
+Geo Blocked Urls: 113
+Validation Time: 171.3971312046051
+Inactive By Error: {'http_404': 124, 'http_400': 8, 'inactive': 43, 'invalid_content': 16, 'http_502': 1, 'http_503': 8, 'http_504': 5, 'http_500': 1, 'http_429': 16}
+Total Processing Time: 177.80132937431335
+Final Channel Count: 741
 Source Urls Processed: 8
 Total Skipped Urls: 107
 
@@ -22,8 +22,8 @@ CHANNEL DISTRIBUTION
 --------------------
 Uncategorized: 110 channels
 Cinéma: 49 channels
+Music: 46 channels
 Sports: 44 channels
-Music: 36 channels
 Généraliste: 30 channels
 Divertissement: 27 channels
 Kids: 23 channels
@@ -41,7 +41,6 @@ General: 11 channels
 Jeunesse: 10 channels
 Régionale: 10 channels
 À Binge-Watch: 10 channels
-Kids & Family: 10 channels
 Classic TV: 9 channels
 Séries et Divertissements: 8 channels
 Crime: 8 channels
@@ -70,19 +69,20 @@ Sport Thématique: 3 channels
 Style de vie/Pratique: 3 channels
 Locale: 3 channels
 Télé réalité: 3 channels
+Kids & Family: 3 channels
 Sci-Fi & Action: 3 channels
 Reality: 3 channels
 History & Science: 3 channels
 Découverte: 2 channels
 Classic;Comedy: 2 channels
-True Crime: 2 channels
 Anime & Gaming, Kids & Family: 2 channels
+True Crime: 2 channels
 Drama TV: 2 channels
 Hit TV, True Crime: 2 channels
 Educatif: 1 channels
+Comedie: 1 channels
 Réréalité: 1 channels
 Film: 1 channels
-Comedie: 1 channels
 Affaires Publiques: 1 channels
 Thématique: 1 channels
 Cuisine: 1 channels
@@ -92,14 +92,14 @@ Etrangère: 1 channels
 Education;Kids: 1 channels
 Legislative: 1 channels
 Animation;Kids: 1 channels
-Auto: 1 channels
 Comedy;Movies: 1 channels
+Auto: 1 channels
 Documentary;Series: 1 channels
 Outdoor;Sports: 1 channels
 Classic;Movies: 1 channels
+Shop: 1 channels
 Comedy;Series: 1 channels
 Weather: 1 channels
-Shop: 1 channels
 Relax: 1 channels
 Emissions cultes: 1 channels
 Hit TV: 1 channels
@@ -111,12 +111,12 @@ VALIDATION FAILURE BREAKDOWN
 ----------------------------
 HTTP 400 Errors: 8 channels
 HTTP 404 Errors: 124 channels
-HTTP 429 Errors: 19 channels
+HTTP 429 Errors: 16 channels
 HTTP 500 Errors: 1 channels
 HTTP 502 Errors: 1 channels
 HTTP 503 Errors: 8 channels
-HTTP 504 Errors: 4 channels
-Inactive: 44 channels
+HTTP 504 Errors: 5 channels
+Inactive: 43 channels
 Invalid Content: 16 channels
 
 SKIPPED URLS (Invalid, Non-HTTP, or Duplicate)
